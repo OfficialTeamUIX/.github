@@ -82,6 +82,14 @@ Open issues, fork a repo, or visit us in #teamuix on the Xbox-Scene Discord to g
 
 ---
 
+## Support
+
+Support through [Ko-fi](https://ko-fi.com/milenko) goes to running the site and the
+servers. If there's a specific developer or project you'd like to support, ask them:
+they may not be part of our team.
+
+---
+
 ## ⚠️ Legal Notice
 
 All tools are intended for use with legally owned Xbox hardware and games. TeamUIX does **not** support or endorse piracy.
